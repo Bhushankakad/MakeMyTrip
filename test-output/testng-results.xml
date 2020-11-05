@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12069" started-at="2020-11-05T07:11:29 IST" finished-at="2020-11-05T07:11:41 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12069" started-at="2020-11-05T07:11:29 IST" finished-at="2020-11-05T07:11:41 IST">
+      <class name="com.makemytrip.TestMakeMyTrip.test.TestListOfFilesInMorning">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.makemytrip.TestMakeMyTrip.test.TestListOfFilesInMorning@5e853265]" name="setup" is-config="true" duration-ms="7556" started-at="2020-11-05T07:11:29 IST" finished-at="2020-11-05T07:11:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testListOfFlitesFromDelhi()[pri:0, instance:com.makemytrip.TestMakeMyTrip.test.TestListOfFilesInMorning@5e853265]" name="testListOfFlitesFromDelhi" duration-ms="4478" started-at="2020-11-05T07:11:36 IST" finished-at="2020-11-05T07:11:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testListOfFlitesFromDelhi -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.makemytrip.TestMakeMyTrip.test.TestListOfFilesInMorning@5e853265]" name="tearDown" is-config="true" duration-ms="1" started-at="2020-11-05T07:11:41 IST" finished-at="2020-11-05T07:11:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.makemytrip.TestMakeMyTrip.test.TestListOfFilesInMorning -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
