@@ -26,11 +26,10 @@ public class TestListOfFilesInMorning extends Base {
 	@Test
 	public void testListOfFlitesFromDelhi() throws InterruptedException {
 
+		
 		util.waitTillPageLoad(driver);
 
-	
-
-		// cllick on flite button
+	// cllick on flite button
 		home.loginButton.click();
 		
 

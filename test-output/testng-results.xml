@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="12069" started-at="2020-11-05T07:11:29 IST" finished-at="2020-11-05T07:11:41 IST">
+  <suite name="Default suite" duration-ms="14822" started-at="2020-11-05T07:43:30 IST" finished-at="2020-11-05T07:43:45 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="12069" started-at="2020-11-05T07:11:29 IST" finished-at="2020-11-05T07:11:41 IST">
+    <test name="Default test" duration-ms="14822" started-at="2020-11-05T07:43:30 IST" finished-at="2020-11-05T07:43:45 IST">
       <class name="com.makemytrip.TestMakeMyTrip.test.TestListOfFilesInMorning">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.makemytrip.TestMakeMyTrip.test.TestListOfFilesInMorning@5e853265]" name="setup" is-config="true" duration-ms="7556" started-at="2020-11-05T07:11:29 IST" finished-at="2020-11-05T07:11:36 IST">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.makemytrip.TestMakeMyTrip.test.TestListOfFilesInMorning@5e853265]" name="setup" is-config="true" duration-ms="8303" started-at="2020-11-05T07:43:30 IST" finished-at="2020-11-05T07:43:38 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="testListOfFlitesFromDelhi()[pri:0, instance:com.makemytrip.TestMakeMyTrip.test.TestListOfFilesInMorning@5e853265]" name="testListOfFlitesFromDelhi" duration-ms="4478" started-at="2020-11-05T07:11:36 IST" finished-at="2020-11-05T07:11:41 IST">
+        <test-method status="PASS" signature="testListOfFlitesFromDelhi()[pri:0, instance:com.makemytrip.TestMakeMyTrip.test.TestListOfFilesInMorning@5e853265]" name="testListOfFlitesFromDelhi" duration-ms="6389" started-at="2020-11-05T07:43:38 IST" finished-at="2020-11-05T07:43:45 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testListOfFlitesFromDelhi -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.makemytrip.TestMakeMyTrip.test.TestListOfFilesInMorning@5e853265]" name="tearDown" is-config="true" duration-ms="1" started-at="2020-11-05T07:11:41 IST" finished-at="2020-11-05T07:11:41 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.makemytrip.TestMakeMyTrip.test.TestListOfFilesInMorning@5e853265]" name="tearDown" is-config="true" duration-ms="97" started-at="2020-11-05T07:43:45 IST" finished-at="2020-11-05T07:43:45 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
